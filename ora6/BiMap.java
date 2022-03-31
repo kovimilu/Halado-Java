@@ -5,7 +5,7 @@ import java.util.TreeMap;
 
 class BiMap <K extends Comparable<? super K>, V extends Comparable<? super K>>
 {
-
+    /*
     static void create (K key, V value) {
 
     }
@@ -17,6 +17,8 @@ class BiMap <K extends Comparable<? super K>, V extends Comparable<? super K>>
     void insert(K key, V value) {
         
     }
+
+     */
 }
 
 
