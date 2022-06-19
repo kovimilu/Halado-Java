@@ -21,10 +21,10 @@ public class genetikus {
        }
 
         for (var i = 0; i <= populationCount; ++i) {
-            doCrossover(Entity e1, Entity e2);
+            //doCrossover(Entity e1, Entity e2);
         }
 
-        if (randomNumer <= (int)(mutationProbability * 10) ) mutateEntity(Entity e);
+        //if (randomNumer <= (int)(mutationProbability * 10) ) mutateEntity(Entity e);
 
     }
 
